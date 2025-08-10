@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Rachid BAWA AKA Rach_Code
+# 👋 Salut, moi c'est Rachid BAWA aka Rach_Code
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=github)](https://rachcode.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/abdoul-rachid-bawa-)
