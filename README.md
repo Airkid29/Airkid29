@@ -62,11 +62,11 @@ Fan de cybersécurité, d’open source et de challenges tech.
 - **Facebook** : [Rachid Bawa](https://www.facebook.com/profile.php?id=100069793652164)
 
 ---
-'''
+
 ##  <Fun fact/>
 
 J’anime des communautés tech, je participe à des hackathons et j’adore apprendre de nouvelles choses chaque semaine !
-'''
+
 ---
 
 > _Merci de visiter mon profil ! N’hésite pas à explorer mes projets ou à me contacter !!!_
