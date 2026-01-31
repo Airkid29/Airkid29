@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Rachid BAWA aka Rach_Code
+#  <Hello World, moi c'est Rachid BAWA aka Rach_Code/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=github)](https://rachcode.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/abdoul-rachid-bawa-)
@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Stack & Outils
+## <Stack & Outils/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 À propos
+##  <À propos/>
 
 Développeur front-end passionné, créatif et curieux, basé au Togo.  
 J’aime transformer des idées en expériences numériques modernes, accessibles et sécurisées.  
@@ -31,7 +31,7 @@ Fan de cybersécurité, d’open source et de challenges tech.
 
 ---
 
-## ✨ Projets phares
+## <Projets phares/>
 
 - **[StartuperSchool, Accelerateur entrepreneurial pour etudiants et pros](https://startuperschool.orga-africa.com/)**  
   _HTML, CSS, Boostrap, JS_
@@ -44,7 +44,7 @@ Fan de cybersécurité, d’open source et de challenges tech.
 
 ---
 
-## 🏆 Expérience & Formation
+## <Expérience & Formation/>
 
 - **Développeur Web** – Orga Africa
 - **Freelance Frontend** – Sites pour PME et particuliers
@@ -54,7 +54,7 @@ Fan de cybersécurité, d’open source et de challenges tech.
 
 ---
 
-## 📫 Contact
+## <Contact/>
 
 - **Email** : rachidbawa80@gmail.com
 - **LinkedIn** : [abdoul-rachid-bawa-168201369](https://www.linkedin.com/in/abdoul-rachid-bawa-168201369/)
@@ -62,11 +62,11 @@ Fan de cybersécurité, d’open source et de challenges tech.
 - **Facebook** : [Rachid Bawa](https://www.facebook.com/profile.php?id=100069793652164)
 
 ---
-
-## ⚡ Fun fact
+'''
+##  <Fun fact/>
 
 J’anime des communautés tech, je participe à des hackathons et j’adore apprendre de nouvelles choses chaque semaine !
-
+'''
 ---
 
-> _Merci de visiter mon profil ! N’hésite pas à explorer mes projets ou à me contacter 👨‍💻_
+> _Merci de visiter mon profil ! N’hésite pas à explorer mes projets ou à me contacter !!!_
