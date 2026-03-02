@@ -20,6 +20,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Elasticsearch](https://img.shields.io)
+
 
 ---
 
@@ -33,19 +35,22 @@ Fan de cybersécurité, d’open source et de challenges tech.
 
 ## <Projets phares/>
 
+- **[AfriGov-Sentinel-Multi-step-AI-Civic-Surveillance-for-West-Africa](https://afrigov-sentinel.netlify.app/)**  
+  _HTML, CSS, Boostrap, JS, Python, Elasticsearch_
+  - **[Youtube_to_MP3_converter](https://github.com/Airkid29/Youtube_to_MP3_converter)**  
+  _Python, FFmpeg_
 - **[StartuperSchool, Accelerateur entrepreneurial pour etudiants et pros](https://startuperschool.orga-africa.com/)**  
   _HTML, CSS, Boostrap, JS_
 - **[Portfolio personnel](https://github.com/Airkid29)**  
   _HTML, CSS, JS_
-- **[Gestion de salle de sport](https://github.com/Airkid29/fitness_class)**  
-  _PHP, HTML, CSS_
-- **[Simulation Phishing débutant](Assets/Simu%20Attaque%20Phishing%20Débutant%20(1).pdf)**  
-  _Ubuntu, ZPhisher, CloudFare, PHP_
+
+
 
 ---
 
 ## <Expérience & Formation/>
 
+- **Community Manager** - Miabé Hackaton
 - **Développeur Web** – Orga Africa
 - **Freelance Frontend** – Sites pour PME et particuliers
 - **Hackathon IT Lomé Business School** – 1ère place, projets innovants
@@ -57,7 +62,7 @@ Fan de cybersécurité, d’open source et de challenges tech.
 ## <Contact/>
 
 - **Email** : rachidbawa80@gmail.com
-- **LinkedIn** : [abdoul-rachid-bawa-168201369](https://www.linkedin.com/in/abdoul-rachid-bawa-168201369/)
+- **LinkedIn** : [abdoul-rachid-bawa-168201369](https://www.linkedin.com/in/abdoul-rachid-bawa-)
 - **Instagram** : [rach_code](https://www.instagram.com/rach_code/?__pwa=1)
 - **Facebook** : [Rachid Bawa](https://www.facebook.com/profile.php?id=100069793652164)
 
