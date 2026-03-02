@@ -37,7 +37,7 @@ Fan de cybersécurité, d’open source et de challenges tech.
 
 - **[AfriGov-Sentinel-Multi-step-AI-Civic-Surveillance-for-West-Africa](https://afrigov-sentinel.netlify.app/)**  
   _HTML, CSS, Boostrap, JS, Python, Elasticsearch_
-  - **[Youtube_to_MP3_converter](https://github.com/Airkid29/Youtube_to_MP3_converter)**  
+- **[Youtube_to_MP3_converter](https://github.com/Airkid29/Youtube_to_MP3_converter)**  
   _Python, FFmpeg_
 - **[StartuperSchool, Accelerateur entrepreneurial pour etudiants et pros](https://startuperschool.orga-africa.com/)**  
   _HTML, CSS, Boostrap, JS_
