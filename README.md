@@ -20,8 +20,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Elasticsearch](https://img.shields.io)
-
 
 ---
 
@@ -50,9 +48,9 @@ Fan de cybersécurité, d’open source et de challenges tech.
 
 ## <Expérience & Formation/>
 
+- **Développeur Web** - Darollo Tech Corporation
 - **Community Manager** - Miabé Hackaton
 - **Développeur Web** – Orga Africa
-- **Freelance Frontend** – Sites pour PME et particuliers
 - **Hackathon IT Lomé Business School** – 1ère place, projets innovants
 - **Licence Securitté Informatique (en cours)** – ESA Togo
 - **Developpement mobile** – Autodidacte
