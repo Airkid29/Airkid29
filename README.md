@@ -1,6 +1,6 @@
 #  <Hello World, moi c'est Rachid BAWA aka Rach_Code/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=github)](https://rachcode.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=github)](https://rach-code.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/abdoul-rachid-bawa-)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram)](https://www.instagram.com/rach_code/?__pwa=1)
 [![Mail](https://img.shields.io/badge/Email-Contact-0078D4?logo=gmail)](mailto:rachidbawa80@gmail.com)
@@ -27,7 +27,7 @@
 
 Développeur front-end passionné, créatif et curieux, basé au Togo.  
 J’aime transformer des idées en expériences numériques modernes, accessibles et sécurisées.  
-Fan de cybersécurité, d’open source et de challenges tech.
+Fan de pentest, forensic, d’open source et de challenges tech.
 
 ---
 
@@ -39,7 +39,7 @@ Fan de cybersécurité, d’open source et de challenges tech.
   _Python, FFmpeg_
 - **[StartuperSchool, Accelerateur entrepreneurial pour etudiants et pros](https://startuperschool.orga-africa.com/)**  
   _HTML, CSS, Boostrap, JS_
-- **[Portfolio personnel](https://github.com/Airkid29)**  
+- **[Portfolio personnel](https://rach-code.netlify.app/)**  
   _HTML, CSS, JS_
 
 
@@ -68,7 +68,7 @@ Fan de cybersécurité, d’open source et de challenges tech.
 
 ##  <Fun fact/>
 
-J’anime des communautés tech, je participe à des hackathons et j’adore apprendre de nouvelles choses chaque semaine !
+Grand passionné de basketball, j'abandonne pas mon reve de finir joueur NBA !
 
 ---
 
