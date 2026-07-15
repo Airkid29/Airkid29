@@ -35,6 +35,8 @@ Fan de pentest, forensic, d’open source et de challenges tech.
 
 - **[AfriGov-Sentinel-Multi-step-AI-Civic-Surveillance-for-West-Africa](https://afrigov-sentinel.netlify.app/)**  
   _HTML, CSS, Boostrap, JS, Python, Elasticsearch_
+- **[Steply, an AI-driven opportunity matching platform that revolutionizes how students discover careers tailored to their skills and aspirations—across ALL sectors.](step-ly.netlify.app)**  
+  _HTML, CSS, Boostrap, JS, Python, Elasticsearch_
 - **[Youtube_to_MP3_converter](https://github.com/Airkid29/Youtube_to_MP3_converter)**  
   _Python, FFmpeg_
 - **[StartuperSchool, Accelerateur entrepreneurial pour etudiants et pros](https://startuperschool.orga-africa.com/)**  
@@ -60,16 +62,11 @@ Fan de pentest, forensic, d’open source et de challenges tech.
 ## <Contact/>
 
 - **Email** : rachidbawa80@gmail.com
-- **LinkedIn** : [abdoul-rachid-bawa-168201369](https://www.linkedin.com/in/abdoul-rachid-bawa-)
+- **LinkedIn** : [abdoul-rachid_bawa](https://www.linkedin.com/in/abdoul-rachid-bawa-)
 - **Instagram** : [rach_code](https://www.instagram.com/rach_code/?__pwa=1)
 - **Facebook** : [Rachid Bawa](https://www.facebook.com/profile.php?id=100069793652164)
 
 ---
 
-##  <Fun fact/>
-
-Grand passionné de basketball, j'abandonne pas mon reve de finir joueur NBA !
-
----
 
 > _Merci de visiter mon profil ! N’hésite pas à explorer mes projets ou à me contacter !!!_
