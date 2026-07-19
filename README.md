@@ -35,7 +35,7 @@ Fan de pentest, forensic, d’open source et de challenges tech.
 
 - **[AfriGov-Sentinel-Multi-step-AI-Civic-Surveillance-for-West-Africa](https://afrigov-sentinel.netlify.app/)**  
   _HTML, CSS, Boostrap, JS, Python, Elasticsearch_
-- **[Steply, an AI-driven opportunity matching platform that revolutionizes how students discover careers tailored to their skills and aspirations—across ALL sectors.](step-ly.netlify.app)**  
+- **[Steply, an AI-driven opportunity matching platform that revolutionizes how students discover careers tailored to their skills and aspirations—across ALL sectors.](https://step-ly.netlify.app/)**  
   _Frontend: React 18, Vite, JavaScript, Tailwind CSS, Radix UI, Node.js, Express.js, Firebase Auth_
 - **[Youtube_to_MP3_converter](https://github.com/Airkid29/Youtube_to_MP3_converter)**  
   _Python, FFmpeg_
