@@ -1,72 +1,33 @@
-#  <Hello World, moi c'est Rachid BAWA aka Rach_Code/>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=airkid29&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=airkid29&theme=github-dark" alt="BAWA Abdoul-Rachid profile hero" /></picture>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?logo=github)](https://rach-code.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/abdoul-rachid-bawa-)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram)](https://www.instagram.com/rach_code/?__pwa=1)
-[![Mail](https://img.shields.io/badge/Email-Contact-0078D4?logo=gmail)](mailto:rachidbawa80@gmail.com)
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=airkid29&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=airkid29&theme=github-dark" alt="About BAWA Abdoul-Rachid" /></picture>
+</p>
 
----
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=airkid29&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=airkid29&theme=github-dark" alt="Language stack" /></picture>
+</p>
 
-## <Stack & Outils/>
+## 📊 GitHub Stats
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=airkid29&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=airkid29&theme=github-dark" alt="GitHub Stats" /></picture>
+</p>
 
----
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=airkid29&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=airkid29&theme=github-dark" alt="airkid29 featured projects" /></picture>
+</p>
 
-##  <À propos/>
+## 🤝 Connect With Me
 
-Développeur front-end passionné, créatif et curieux, basé au Togo.  
-J’aime transformer des idées en expériences numériques modernes, accessibles et sécurisées.  
-Fan de pentest, forensic, d’open source et de challenges tech.
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=airkid29&theme=github-dark&website=https%3A%2F%2Frach-code.netlify.app%2F&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=airkid29&theme=github-dark&website=https%3A%2F%2Frach-code.netlify.app%2F" alt="airkid29 social links" /></picture>
+</p>
 
----
-
-## <Projets phares/>
-
-- **[AfriGov-Sentinel-Multi-step-AI-Civic-Surveillance-for-West-Africa](https://afrigov-sentinel.netlify.app/)**  
-  _HTML, CSS, Boostrap, JS, Python, Elasticsearch_
-- **[Steply, an AI-driven opportunity matching platform that revolutionizes how students discover careers tailored to their skills and aspirations—across ALL sectors.](https://step-ly.netlify.app/)**  
-  _Frontend: React 18, Vite, JavaScript, Tailwind CSS, Radix UI, Node.js, Express.js, Firebase Auth_
-- **[Youtube_to_MP3_converter](https://github.com/Airkid29/Youtube_to_MP3_converter)**  
-  _Python, FFmpeg_
-- **[StartuperSchool, Accelerateur entrepreneurial pour etudiants et pros](https://startuperschool.orga-africa.com/)**  
-  _HTML, CSS, Boostrap, JS_
-- **[Portfolio personnel](https://rach-code.netlify.app/)**  
-  _HTML, CSS, JS_
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/airkid29) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rach-code.netlify.app/)
 
 ---
 
-## <Expérience & Formation/>
-
-- **Développeur Web** - Darollo Tech Corporation
-- **Community Manager** - Miabé Hackaton
-- **Développeur Web** – Orga Africa
-- **Hackathon IT Lomé Business School** – 1ère place, projets innovants
-- **Licence Securitté Informatique (en cours)** – ESA Togo
-- **Developpement mobile** – Autodidacte
-
----
-
-## <Contact/>
-
-- **Email** : rachidbawa80@gmail.com
-- **LinkedIn** : [abdoul-rachid_bawa](https://www.linkedin.com/in/abdoul-rachid-bawa-)
-- **Instagram** : [rach_code](https://www.instagram.com/rach_code/?__pwa=1)
-- **Facebook** : [Rachid Bawa](https://www.facebook.com/profile.php?id=100069793652164)
-
----
-
-
-> _Merci de visiter mon profil ! N’hésite pas à explorer mes projets ou à me contacter !!!_
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
